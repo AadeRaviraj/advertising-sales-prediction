@@ -123,7 +123,7 @@ A scatter plot is generated comparing actual sales values against the model's pr
    ```
 4. Run the script:
    ```bash
-   python advertising_sales_prediction.py
+   python AdvertisingCaseStudyModelBuildingVisualization..py
    ```
 
 ---
