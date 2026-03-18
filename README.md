@@ -139,11 +139,7 @@ A scatter plot is generated comparing actual sales values against the model's pr
 - Regression Evaluation Metrics (MSE, RMSE, R² Score)
 - Actual vs Predicted Visualization
 
----
 
-## Suggested Repo Name
-
-`advertising-sales-prediction`
 
 ---
 
